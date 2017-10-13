@@ -1,5 +1,5 @@
 {
-  "name": "gulp-build-deploy-tasks",
+  "name": "gulp-s3-deploy",
   "version": "0.0.1",
   "description": "Builder and deployment tasks",
   "main": "gulpfile.js",
